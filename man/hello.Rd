@@ -1,12 +1,12 @@
-\name{hello}
-\alias{hello}
-\title{Hello, World!}
+\name{bet}
+\alias{bet}
+\title{Random Letter Generator}
 \usage{
-hello()
+bet()
 }
 \description{
-Prints 'Hello, world!'.
+'Generates random letters'.
 }
 \examples{
-hello()
+bet(1)
 }
